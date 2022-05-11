@@ -1,0 +1,16 @@
+.color-blue {
+    color: cadetblue;
+}
+.color-yellow {
+    color: yellow;
+}
+
+.color-yellow ul li a {
+    color: fuchsia;
+}
+blockquote {
+    color: brown;
+}
+#color-figcaption {
+    color: darkgoldenrod;
+}
